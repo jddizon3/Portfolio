@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
-    <title>Job Daniel Dizon's Portfolio</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-
 <body>
     <section class="main">
         <div class="main-container">
@@ -35,5 +25,3 @@
         </div>
     </article>
 </body>
-
-</html>
