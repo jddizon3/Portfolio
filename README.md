@@ -1,2 +1,8 @@
 # Personal Portfolio
-Job Daniel Dizon's personal portfolio
+A website portfolio to showcase my career, hobbies, and interests. 
+
+# Tools
+- npm
+
+
+
