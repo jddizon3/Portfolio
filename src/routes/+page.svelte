@@ -2,7 +2,7 @@
     <section class="main">
         <div class="main-container">
             <div class="column-left">
-                <h1 class= 'text-3xl font-bold underline'>Job Daniel Dizon</h1>
+                <h1>Job Daniel Dizon</h1>
                 <p>
                     Computer Systems Engineering student
                     at the University of Alaska Anchorage.
@@ -26,7 +26,7 @@
     </article>
 </body>
 
-<style lang="postcss">
+<style>
     * {
         box-sizing: border-box;
         margin: 0;
