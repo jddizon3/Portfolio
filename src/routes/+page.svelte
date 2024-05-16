@@ -10,7 +10,7 @@
             </div>
         </div>
     </section>
-    <article class="description">
+    <section class="description">
         <div class="about">
             <h2>About</h2>
             <p>
@@ -23,11 +23,11 @@
                 insert paragraph here
             </p>
         </div>
-    </article>
+    </section>
 </body>
 
 <style>
-    @import './mainstyle.css';
+    @import "./mainstyle.css";
 </style>
 
 

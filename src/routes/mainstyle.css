@@ -1,0 +1,30 @@
+.main {
+    position: fixed;
+}
+.main-container {
+    margin-top: 5%;
+    margin-left: 10%;
+}
+
+.column-left h1 {
+    font-family: "DM Sans", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: xxx-large;
+}
+
+.column-left p {
+    font-family: "DM Sans", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.description {/* Position the section relative to the viewport */
+    top: 10%; /* Align section to the top */
+    right: 5%; /* Align section to the right */
+    width: 500px; /* Set the width of the section */
+    height: 100%; /* Fill the entire height of the viewport */
+    background-color: #f0f0f0; /* Example background color */
+    padding: 20px;
+    position: absolute;
+}
